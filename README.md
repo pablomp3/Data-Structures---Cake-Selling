@@ -34,7 +34,7 @@ For example:
 | Price  |  5 USD	 |  7 USD	| ....	| 1090 USD |
  
 
-Given a list of prices, find the _highest amount of money_, the cake maker can make by cutting _one cake_ (best cutting strategy). 
+Given a list of prices, find the **highest amount of money**, the cake maker can make by cutting **one cake** (best cutting strategy). 
 
 
 For example:
