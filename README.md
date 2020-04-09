@@ -60,9 +60,9 @@ For example:
 
 Which means: The cake can be cut up to 3 pieces.
 
-  Price of a slice of size 1/3: 22 USD
-  Price of a slice of 2/3: 33 USD
-  Price of a slice of 3/3 (whole cake): 44 USD 
+* Price of a slice of size 1/3: 22 USD
+* Price of a slice of 2/3: 33 USD
+* Price of a slice of 3/3 (whole cake): 44 USD 
 
 
 ## Output
@@ -73,7 +73,9 @@ For example:
     66
 
 Sample Input (see attached)
-  3 7 8 9 10
+
+    3 7 8 9 10
 Sample Output (see attached)
-  17
+
+    17
  
