@@ -9,25 +9,25 @@ He has a list of prices for slices of different sizes (for each flavor of cake).
 
 For example:
 
-    Chocolate cake:
+   Chocolate cake:
 
 Price of a piece of size 1/3: 22 USD
 Price of a piece of size 2/3: 33 USD
 Price of a piece of size 3/3 (whole cake): 44 USD
 
-Slice	  1/3	    2/3	    3/3
-Price  	22 USD	33 USD	44 USD
+| Slice |    1/3	 |   2/3	  |  3/3   |
+| Price | 	22 USD |	33 USD	| 44 USD |
      
 
-    Vanilla cake:
+   Vanilla cake:
 
 Price of a piece of size 1/20: 5 USD
 Price of a piece of size 2/20: 7 USD
 ...
 Price of a piece of size 20/20: 1090 USD
 
-Slice	  1/20	  2/20	 ....	 20/20
-Price	  5 USD	  7 USD	 ....	 1090 USD
+| Slice	 |  1/20	 |  2/20	| ....	| 20/20    |
+| Price  |  5 USD	 |  7 USD	| ....	| 1090 USD |
  
 
 Given a list of prices, find the _highest amount of money_, the cake maker can make by cutting _one cake_ (best cutting strategy). 
