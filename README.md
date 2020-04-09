@@ -15,6 +15,7 @@ Price of a piece of size 1/3: 22 USD
 Price of a piece of size 2/3: 33 USD
 Price of a piece of size 3/3 (whole cake): 44 USD
 
+| name  |     ñ    |    ñ     |   ñ    |
 |-------|----------|----------|--------|
 | Slice |    1/3	 |   2/3	  |  3/3   |
 | Price | 	22 USD |	33 USD	| 44 USD |
