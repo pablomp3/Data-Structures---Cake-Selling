@@ -11,9 +11,9 @@ For example:
 
    Chocolate cake:
 
-  Price of a piece of size 1/3: 22 USD
-  Price of a piece of size 2/3: 33 USD
-  Price of a piece of size 3/3 (whole cake): 44 USD
+* Price of a piece of size 1/3: 22 USD
+* Price of a piece of size 2/3: 33 USD
+* Price of a piece of size 3/3 (whole cake): 44 USD
 
 | name  |     ñ    |    ñ     |   ñ    |
 |-------|----------|----------|--------|
@@ -23,10 +23,10 @@ For example:
 
    Vanilla cake:
 
-  Price of a piece of size 1/20: 5 USD
-  Price of a piece of size 2/20: 7 USD
-  ...
-  Price of a piece of size 20/20: 1090 USD
+* Price of a piece of size 1/20: 5 USD
+* Price of a piece of size 2/20: 7 USD
+* ...
+* Price of a piece of size 20/20: 1090 USD
 
 |  name  |    ñ    |   ñ    |   ñ   |    ñ     |
 |--------|---------|--------|-------|----------|
@@ -43,9 +43,9 @@ The maximum earnings we can make out of the chocolate cake is 66 USD.
 ## WHY?
 All cutting strategies:
 
-  3 pieces of size 1/3: 22 + 22 + 22 = 66 USD
-  1 piece of 1/3 and 1 piece of 2/3: 22 + 33 = 55 USD
-  1 piece of 3/3 (whole cake): 44 USD
+* 3 pieces of size 1/3: 22 + 22 + 22 = 66 USD
+* 1 piece of 1/3 and 1 piece of 2/3: 22 + 33 = 55 USD
+* 1 piece of 3/3 (whole cake): 44 USD
 So the best way to cut it is into 3 pieces of size 1/3.
 
  
@@ -72,10 +72,10 @@ For example:
 
     66
 
-Sample Input (see attached)
+### Sample Input (see attached)
 
     3 7 8 9 10
-Sample Output (see attached)
+### Sample Output (see attached)
 
     17
  
