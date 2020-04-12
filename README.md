@@ -1,7 +1,8 @@
 # Data-Structures - Cake-Selling
 https://acm.cs.nthu.edu.tw/problem/12162/
 ## Description
-                                                                 
+
+![](https://github.com/pablomp3/Data-Structures---Cake-Selling/blob/master/cake.png)
                                                                
 A cake maker wants to earn as much money as he can. Different flavors of cakes have different sizes. 
 For example, a chocolate cake is small and can only be cut up to 3 pieces. Vanilla cake is big and can be cut up to 20 pieces. 
